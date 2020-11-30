@@ -1,6 +1,6 @@
 {
   "name": "@newn-team/react-lines-ellipsis",
-  "version": "0.14.2",
+  "version": "0.14.3",
   "description": "Simple multiline ellipsis component for React.JS",
   "main": "lib/index.js",
   "files": [
